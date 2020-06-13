@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      kcheng0222
-// @description 6/13/2020, 2:54:31 PM
+// @description Userscript that hides username on new reddit.
 // ==/UserScript==
 
 (function () {
