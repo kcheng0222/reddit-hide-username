@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Hide Reddit Username
 // @namespace   https://github.com/kcheng0222
-// @match       https://www.reddit.com/*
+// @match       https://www.*.reddit.com/*
 // @grant       none
 // @version     1.0
 // @author      kcheng0222
