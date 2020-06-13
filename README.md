@@ -1,5 +1,5 @@
-# reddit-hide-username
-Userscript that hides username on new reddit.
+# Reddit Hide Username
+Userscript that hides username on new [reddit](reddit.com).
 
 ## Installation
 
