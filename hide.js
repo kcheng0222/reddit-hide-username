@@ -11,7 +11,7 @@
 (function () {
     var scriptElement = document.createElement( "script" );
     scriptElement.type = "text/javascript";
-    scriptElement.src = "https://pastebin.com/raw/2sAn8ZJj";
+    scriptElement.src = "https://raw.githubusercontent.com/kcheng0222/reddit-hide-username/master/script.js";
   
     window.addEventListener('load', function() {
       document.body.appendChild( scriptElement );
