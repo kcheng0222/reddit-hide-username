@@ -1,11 +1,15 @@
 // ==UserScript==
 // @name        Hide Reddit Username
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/kcheng0222
 // @match       https://www.reddit.com/*
 // @grant       none
 // @version     1.0
 // @author      kcheng0222
 // @description Userscript that hides username on new reddit.
+// @supportURL https://github.com/kcheng0222/reddit-hide-username/issues
+// @downloadURL https://github.com/kcheng0222/reddit-hide-username/raw/master/script.user.js
+// @updateURL https://github.com/kcheng0222/reddit-hide-username/raw/master/script.user.js
+// @homepage https://github.com/kcheng0222/reddit-hide-username
 // ==/UserScript==
 
 (function () {
